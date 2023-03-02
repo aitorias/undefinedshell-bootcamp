@@ -6,13 +6,13 @@ Enlace al [README.md](https://github.com/aitorias/aitorias#readme) de mi perfil 
 
 2. Añade una tabla en Markdown (Obviamente) con al menos 5 comandos de la Terminal que hayas aprendido, de forma que tenga nombre del comando y descripción en columnas separadas.
 
-| Comando           | Descripción                     |
-|-------------------|---------------------------------|
+| Comando             | Descripción                     |
+|---------------------|---------------------------------|
 | `cd *directory*`    | Change to directory *directory* |
-| date              | Show system date                |
-| ls                | List files in current directory |
-| mkdir *directory* | Make directory *directory*      |
-| pwd               | Show current directory          |
+| `date`              | Show system date                |
+| `ls`                | List files in current directory |
+| `mkdir *directory*` | Make directory *directory*      |
+| `pwd`               | Show current directory          |
 
 3. Añade una sección con al menos 2 comandos alias que te parezcan útiles incluyendo columna de descripción.
 
