@@ -44,7 +44,7 @@ Este alias actualiza todos los paquetes del sistema Linux.
 <tr>
 <td>
 
-```console
+```bash
 alias search="grep"
 ```
 
