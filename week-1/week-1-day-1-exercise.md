@@ -8,7 +8,7 @@ Enlace al [README.md](https://github.com/aitorias/aitorias#readme) de mi perfil 
 
 | Comando           | Descripción                     |
 |-------------------|---------------------------------|
-| cd *directory*    | Change to directory *directory* |
+| `cd *directory*`    | Change to directory *directory* |
 | date              | Show system date                |
 | ls                | List files in current directory |
 | mkdir *directory* | Make directory *directory*      |
