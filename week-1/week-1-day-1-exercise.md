@@ -1,4 +1,4 @@
-## Semana 1, ejercicio 1
+## Día 1, ejercicio
 
 1. Crear un Github Profile README. Este debe tener una pequeña descripción tuya tipo CV.
 
