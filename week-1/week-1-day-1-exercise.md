@@ -30,7 +30,7 @@ Description
 <tr>
 <td>
 
-```console
+```bash
 alias apt-sysupdate="sudo apt update && sudo apt upgrade -y"
 ```
 
