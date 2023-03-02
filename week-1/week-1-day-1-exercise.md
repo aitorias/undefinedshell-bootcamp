@@ -6,7 +6,7 @@ Enlace al [README.md](https://github.com/aitorias/aitorias#readme) de mi perfil 
 
 2. Añade una tabla en Markdown (Obviamente) con al menos 5 comandos de la Terminal que hayas aprendido, de forma que tenga nombre del comando y descripción en columnas separadas.
 
-| Command           | Description                     |
+| Comando           | Descripción                     |
 |-------------------|---------------------------------|
 | cd *directory*    | Change to directory *directory* |
 | date              | Show system date                |
@@ -36,7 +36,7 @@ alias apt-sysupdate="sudo apt update && sudo apt upgrade -y"
 
 </td>
 <td>
-This is alias updates all the packages of the system
+Este alias actualiza todos los paquetes del sistema Linux.
 </td>
 </tr>
 <tr>
@@ -50,7 +50,7 @@ alias search="grep"
 
 </td>
 <td>
-This is alias is used to search text and strings in a given file
+Este alias se utiliza para buscar texto y cadenas de texto en un archivo.
 </td>
 </tr>
 </table>
